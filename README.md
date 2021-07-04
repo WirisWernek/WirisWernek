@@ -16,11 +16,54 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 - ⚡ Fun fact: this one I don't even know
 
 ## 👨‍💻 Technologies
-- Ruby
-- C
-- HTML/CSS
-- Javascript
-- Vagrant
-- Git
-- Shell
-- Linux
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Logo da Linguagem Ruby">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo do HTML5">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo do CSS3">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        alt="Logo da Linguagem Javascript">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="logo do Vagrant">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Logo do Bash">
+</a>
+<a href="">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Mascote do Linux-Tux">
+</a><br>
+
+## Boards
+<div style="display: flex; flex-direction: row;margin: 5px;">
+<article style="margin: 5px;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WirisWernek&show_icons=true&theme=radical)
+
+</article>
+<article style="margin: 5px;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirisWernek&layout=compact)](https://github.com/WirisWernek/github-readme-stats)
+
+</article>
+</div>
