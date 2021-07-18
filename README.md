@@ -16,40 +16,40 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 - ⚡ Fun fact: this one I don't even know
 
 ## 👨‍💻 Technologies
-<a href="">
+<a href="https://www.ruby-lang.org/pt/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Logo da Linguagem Ruby">
 </a>
-<a href="">
+<a href="https://devdocs.io/c/language/do">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C">
 </a>
-<a href="">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo do HTML5">
 </a>
-<a href="">
+<a href="https://www.w3schools.com/cssref/default.asp">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo do CSS3">
 </a>
-<a href="">
+<a href="https://www.javascript.com/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         alt="Logo da Linguagem Javascript">
 </a>
-<a href="">
+<a href="https://www.vagrantup.com/docs">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="logo do Vagrant">
 </a>
-<a href="">
+<a href="https://git-scm.com/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git">
 </a>
-<a href="">
+<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Logo do Bash">
 </a>
-<a href="">
+<a href="https://www.kernel.org/doc/html/latest/#">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Mascote do Linux-Tux">
 </a><br>
