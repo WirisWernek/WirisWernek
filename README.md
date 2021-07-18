@@ -58,12 +58,11 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 <div style="display: flex; flex-direction: row;margin: 5px;">
 <article style="margin: 5px;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WirisWernek&show_icons=true&theme=radical)
+
 
 </article>
 <article style="margin: 5px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirisWernek&layout=compact)](https://github.com/WirisWernek/github-readme-stats)
 
 </article>
 </div>
