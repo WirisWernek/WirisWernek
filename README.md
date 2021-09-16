@@ -9,7 +9,7 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 
 - 🌱 I’m currently learning : Docker and Ruby
 - 👯 I’m looking to collaborate on open source projetos
-- 🤔 I’m looking for help with Ruby
+- 🤔 I’m looking for help with Go and Ansible
 - 💬 Ask me about anything you want
 - 📫 How to reach me: rafaeljwerneck43@gmail.com
 - 😄 Pronouns: he/his
