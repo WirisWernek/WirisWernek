@@ -1,8 +1,9 @@
 # Welcome to GitHub of Wiris Wernek
-[![Twitter Badge](https://img.shields.io/badge/-@WirisRafael-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/WirisRafael)](https://twitter.com/WirisRafael) 
-[![Linkedin Badge](https://img.shields.io/badge/-Wiris%20Wernek-0B66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/)](https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/) 
+
+[![Twitter Badge](https://img.shields.io/badge/-@WirisRafael-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/WirisRafael)](https://twitter.com/WirisRafael)
+[![Linkedin Badge](https://img.shields.io/badge/-Wiris%20Wernek-0B66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/)](https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/)
 [![Instagram Badge](https://img.shields.io/badge/-@wiriswernek-CE3389?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiriswerneck/)](https://www.instagram.com/wiriswerneck/)
-[![Twitch Badge](https://img.shields.io/badge/-Lost905-6633cc?style=flat-square&labelColor=6633cc&logo=twitch&logoColor=white&link=hhttps://www.twitch.tv/lost905)](https://www.twitch.tv/lost905) 
+[![Twitch Badge](https://img.shields.io/badge/-Lost905-6633cc?style=flat-square&labelColor=6633cc&logo=twitch&logoColor=white&link=hhttps://www.twitch.tv/lost905)](https://www.twitch.tv/lost905)
 
 👋🏼 Helo! I'm happy to see you here, welcome to my GitHub.
 My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
@@ -17,7 +18,7 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 
 ## 👨‍💻 Technologies
 
-<a href="https://www.ruby-lang.org/pt/">
+<a href="https://golang.org/doc/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Logo da Linguagem Go">
 
@@ -58,11 +59,12 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Mascote do Linux-Tux">
 </a>
-<a href="https://www.ruby-lang.org/pt/">
+<a href="https://docs.docker.com/get-started/overview/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker"><br>
 
 ## Boards
+
 <div style="display: flex; flex-direction: row;margin: 5px;">
 <article style="margin: 5px;">
 
