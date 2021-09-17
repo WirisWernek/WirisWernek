@@ -7,7 +7,7 @@
 👋🏼 Helo! I'm happy to see you here, welcome to my GitHub.
 My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
 
-- 🌱 I’m currently learning : Docker and Ruby
+- 🌱 I’m currently learning : Docker, Ansible and Go
 - 👯 I’m looking to collaborate on open source projetos
 - 🤔 I’m looking for help with Go and Ansible
 - 💬 Ask me about anything you want
@@ -16,6 +16,11 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 - ⚡ Fun fact: this one I don't even know
 
 ## 👨‍💻 Technologies
+
+<a href="https://www.ruby-lang.org/pt/">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Logo da Linguagem Go">
+
 <a href="https://www.ruby-lang.org/pt/">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Logo da Linguagem Ruby">
@@ -52,7 +57,10 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 <a href="https://www.kernel.org/doc/html/latest/#">
     <img style="max-width: 100%;" align="center" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Mascote do Linux-Tux">
-</a><br>
+</a>
+<a href="https://www.ruby-lang.org/pt/">
+    <img style="max-width: 100%;" align="center" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker"><br>
 
 ## Boards
 <div style="display: flex; flex-direction: row;margin: 5px;">
