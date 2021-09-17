@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@wiriswernek-CE3389?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wiriswerneck/)](https://www.instagram.com/wiriswerneck/)
 [![Twitch Badge](https://img.shields.io/badge/-Lost905-6633cc?style=flat-square&labelColor=6633cc&logo=twitch&logoColor=white&link=hhttps://www.twitch.tv/lost905)](https://www.twitch.tv/lost905)
 
-👋🏼 Helo! I'm happy to see you here, welcome to my GitHub.
+👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
 My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
 
 - 🌱 I’m currently learning : Docker, Ansible and Go
