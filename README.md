@@ -53,14 +53,20 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
 <a href="https://www.kernel.org/doc/html/latest/#">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
 </a>
+<a href="https://ubuntu.com/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Logo do Ubuntu">
+</a>
 <a href="https://docs.docker.com/get-started/overview/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
 </a>
-<a href="https://www.vagrantup.com/docs">
+<a href="https://www.ansible.com/">
     <img height="32" src="https://img.icons8.com/color/48/000000/ansible.png" alt="Logo do Vagrant">
 </a>
 <a href="https://www.vagrantup.com/docs">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Ansible">
+</a>
+<a href="https://www.mysql.com/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
 </a>
 </p>
 <h2 align="center">Boards</h2>
