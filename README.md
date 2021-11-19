@@ -69,7 +69,7 @@ My name is Wiris Rafael J Wernek, i have eighteen years old, natural from Cachoe
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
 </a>
 </p>
-<h2 align="center">Boards</h2>
+<h2 align="center">Metrics</h2>
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WirisWernek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WirisWernek&layout=compact&langs_count=16&theme=radical"/>
