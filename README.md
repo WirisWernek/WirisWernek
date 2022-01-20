@@ -26,48 +26,41 @@ My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoe
 <h2 align="center">Technologies</h2>
 <p align="center">
 
-<a href="https://golang.org/doc/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go lang"/>
-</a>
-<a href="https://www.ruby-lang.org/pt/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
-</a>
-<a href="https://devdocs.io/c/language/do">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+
+<a href="https://www.javascript.com/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo do HTML"/>
 </a>
 <a href="https://www.w3schools.com/cssref/default.asp">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"/>
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo do CSS"/>
 </a>
-<a href="https://www.javascript.com/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+<a href="https://www.php.net/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
+</a>
+<a href="https://devdocs.io/c/language/do">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
 </a>
 <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash"/>
-</a>
-<a href="https://git-scm.com/">
-   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Javascript"/>
-</a>
-<a href="https://www.kernel.org/doc/html/latest/#">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
-</a>
-<a href="https://ubuntu.com/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Logo do Ubuntu">
-</a>
-<a href="https://docs.docker.com/get-started/overview/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
-</a>
-<a href="https://www.ansible.com/">
-    <img height="32" src="https://img.icons8.com/color/48/000000/ansible.png" alt="Logo do Vagrant">
-</a>
-<a href="https://www.vagrantup.com/docs">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Ansible">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Logo do Bash"/>
 </a>
 <a href="https://www.mysql.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
 </a>
+<a href="https://git-scm.com/">
+   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Javascript"/>
+</a>
+<a href="https://www.kernel.org/doc/html/latest/#">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
+</a>
+<a href="https://docs.docker.com/get-started/overview/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
+</a>
+<a href="https://www.vagrantup.com/docs">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
+</a>
+
 </p>
 <h2 align="center">Metrics</h2>
 <p align="center">
