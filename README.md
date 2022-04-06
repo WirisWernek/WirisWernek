@@ -39,6 +39,9 @@ My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoe
 <a href="https://www.php.net/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
 </a>
+<a href="https://www.oracle.com/java/technologies/javase-documentation.html">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
+</a>
 <a href="https://devdocs.io/c/language/do">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
 </a>
@@ -47,6 +50,9 @@ My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoe
 </a>
 <a href="https://www.mysql.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
+</a>
+<a href="https://www.postgresql.org/docs/14/index.html">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
 </a>
 <a href="https://git-scm.com/">
    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Javascript"/>
