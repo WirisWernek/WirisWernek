@@ -10,7 +10,7 @@
 
 </div>
 <div align="justify">
-👋👋 Helo! I'm happy to see you here, welcome to my GitHub.
+👋👋 Hello! I'm happy to see you here, welcome to my GitHub.
 My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
 
 - 🌱 I’m currently learning : Docker, Ansible and Go
