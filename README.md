@@ -31,17 +31,23 @@ My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoe
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo do HTML"/>
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
 </a>
 <a href="https://www.w3schools.com/cssref/default.asp">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo do CSS"/>
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
 </a>
+<a href="https://angular.io/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
+</a> 
 <a href="https://www.php.net/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
 </a>
 <a href="https://www.oracle.com/java/technologies/javase-documentation.html">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
 </a>
+<a href="https://spring.io/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
+</a>    
 <a href="https://devdocs.io/c/language/do">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
 </a>
