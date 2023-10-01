@@ -13,9 +13,9 @@
 👋👋 Hello! I'm happy to see you here, welcome to my GitHub.
 My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
 
-- 🌱 I’m currently learning : Docker, Ansible and Go
+- 🌱 I’m currently learning : Docker, Angular and Spring Boot.
 - 👯 I’m looking to collaborate on open source projetos
-- 🤔 I’m looking for help with Go and Ansible
+- 🤔 I’m looking for help with Spring Boot.
 - 💬 Ask me about anything you want
 - 📫 How to reach <a href="mailto:rafaeljwerneck43@gmail.com">me</a>
 - 😄 Pronouns: he/his
