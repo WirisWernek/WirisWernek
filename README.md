@@ -3,22 +3,22 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:rafaeljwerneck43@gmail)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/WirisRafael)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiris-rafael-januario-wernek-420461182/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wiriswerneck/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/wiriswernek)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0B66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiris-wernek/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-CE3389?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wiriswernek/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&labelColor=6633cc&logo=twitch&logoColor=white)](https://www.twitch.tv/lost905)
 
 </div>
 <div align="justify">
 👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, and I am 20 years old. I am originally from Cachoeiro de Itapemirim and currently reside in Alegre-ES. I am pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
 
-🌱 I am currently learning: Docker, Angular, and Spring Boot.
-👯 I am open to collaborating on open-source projects.
-🤔 I am seeking assistance with Spring Boot.
-💬 Feel free to ask me anything you'd like.
-📫 You can reach me through:
-😄 Pronouns: he/his
-⚡ Fun fact: I don't even know what to share here.
+- 🌱 I am currently learning: Docker, Angular, and Spring Boot.
+- 👯 I am open to collaborating on open-source projects.
+- 🤔 I am seeking assistance with Spring Boot.
+- 💬 Feel free to ask me anything you'd like.
+- 📫 You can reach me through:
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I don't even know what to share here.
 
 </div>
 
