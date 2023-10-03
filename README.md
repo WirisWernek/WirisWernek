@@ -10,16 +10,15 @@
 
 </div>
 <div align="justify">
-👋👋 Hello! I'm happy to see you here, welcome to my GitHub.
-My name is Wiris Rafael J Wernek, i have nineteen years old, natural from Cachoeiro de Itapemirim, living Alegre-ES, I'm studying Analyze and Development of Systems. My study focus is DevOps, tools of infrastruture and cloud.
+👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, and I am 20 years old. I am originally from Cachoeiro de Itapemirim and currently reside in Alegre-ES. I am pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
 
-- 🌱 I’m currently learning : Docker, Angular and Spring Boot.
-- 👯 I’m looking to collaborate on open source projetos
-- 🤔 I’m looking for help with Spring Boot.
-- 💬 Ask me about anything you want
-- 📫 How to reach <a href="mailto:rafaeljwerneck43@gmail.com">me</a>
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: this one I don't even know
+🌱 I am currently learning: Docker, Angular, and Spring Boot.
+👯 I am open to collaborating on open-source projects.
+🤔 I am seeking assistance with Spring Boot.
+💬 Feel free to ask me anything you'd like.
+📫 You can reach me through:
+😄 Pronouns: he/his
+⚡ Fun fact: I don't even know what to share here.
 
 </div>
 
