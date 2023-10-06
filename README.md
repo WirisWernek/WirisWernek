@@ -20,6 +20,7 @@
 - 📫 You can reach me through:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't even know what to share here.
+- 🔗 "For a quick contact, ![click here](https://dbc-wiriswernek.vercel.app/).
 
 </div>
 
