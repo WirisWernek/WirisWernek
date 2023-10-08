@@ -20,7 +20,7 @@
 - 📫 You can reach me through:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I don't even know what to share here.
-- 🔗 "For a quick contact, ![click here](https://dbc-wiriswernek.vercel.app/).
+- 🔗 For a quick contact, [click here](https://dbc-wiriswernek.vercel.app/).
 
 </div>
 
@@ -30,6 +30,9 @@
 
 <a href="https://www.javascript.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
@@ -49,12 +52,6 @@
 <a href="https://spring.io/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
 </a>    
-<a href="https://devdocs.io/c/language/do">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
-</a>
-<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Logo do Bash"/>
-</a>
 <a href="https://www.mysql.com/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
 </a>
@@ -62,7 +59,7 @@
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
 </a>
 <a href="https://git-scm.com/">
-   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Javascript"/>
+   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
 </a>
 <a href="https://www.kernel.org/doc/html/latest/#">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
