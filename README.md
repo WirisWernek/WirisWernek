@@ -25,48 +25,21 @@
 
 <h2 align="center">Technologies</h2>
 <div align="center">
-<a href="https://www.javascript.com/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
-</a>
-<a href="https://www.typescriptlang.org/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
-</a>
-<a href="https://www.w3schools.com/cssref/default.asp" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
-</a>
-<a href="https://angular.io/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
-</a> 
-<a href="https://www.php.net/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
-</a>
-<a href="https://www.oracle.com/java/technologies/javase-documentation.html" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
-</a>
-<a href="https://spring.io/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
-</a>    
-<a href="https://www.mysql.com/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
-</a>
-<a href="https://www.postgresql.org/docs/14/index.html" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
-</a>
-<a href="https://git-scm.com/" style="text-decoration: none;">
-   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
-</a>
-<a href="https://www.kernel.org/doc/html/latest/#" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
-</a>
-<a href="https://docs.docker.com/get-started/overview/" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
-</a>
-<a href="https://www.vagrantup.com/docs" style="text-decoration: none;">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
-</a>
+
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
 
 </div>
 <h2 align="center">Metrics</h2>
