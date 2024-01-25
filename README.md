@@ -11,7 +11,7 @@
 </div>
 
 <div align="justify">
-👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, and I am 21 years old. I am originally from Cachoeiro de Itapemirim and currently reside in Alegre-ES. I am pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
+👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, I am 21 years old, actually pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
 
 - 🌱 I am currently learning: Docker, Angular, and Spring Boot.
 - 👯 I am open to collaborating on open-source projects.
