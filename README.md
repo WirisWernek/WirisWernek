@@ -24,28 +24,40 @@
 </div>
 
 <h2 align="center">Technologies</h2>
-<div align="center">
 
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
-
-</div>
-<h2 align="center">Metrics</h2>
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WirisWernek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WirisWernek&layout=compact&langs_count=16&theme=radical"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,css,spring,java,php,postgres,mysql,git,docker,linux" />
+  </a>
 </p>
 
+<!--
+<div align="center">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Logo do SCSS"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
+	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
+</div>
+-->
 
+
+<div align="center">
+	<h2 align="center">Metrics</h2>
+  <img height="195rem" src="https://github-readme-stats.vercel.app/api?username=WirisWernek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img src="https://streak-stats.demolab.com?user=wiriswernek&theme=radical&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=wiriswernek&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</div>
