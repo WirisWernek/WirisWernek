@@ -11,7 +11,7 @@
 </div>
 
 <div align="justify">
-👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, I am 21 years old, actually pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
+👋👋 Hello! I'm delighted to see you here. Welcome to my GitHub profile. My name is Wiris Rafael J Wernek, I am 22 years old, actually pursuing a degree in Analyze and Development of Systems, with a focus on deepening my knowledge in Spring Boot and Angular.
 
 - 🌱 I am currently learning: Docker, Angular, and Spring Boot.
 - 👯 I am open to collaborating on open-source projects.
@@ -30,27 +30,6 @@
     <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,css,spring,java,php,postgres,mysql,git,docker,linux" />
   </a>
 </p>
-
-<!--
-<div align="center">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Logo do Angular">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo do Typescript"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo do Javascript"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo do HTML"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Logo do SCSS"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo do CSS"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Logo do Spring">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo do PHP"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Logo do Postgres"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
-	<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Logo do Vagrant">
-</div>
--->
-
 
 <div align="center">
 	<h2 align="center">Metrics</h2>
